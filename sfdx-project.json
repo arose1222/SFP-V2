@@ -7,11 +7,21 @@
       "versionNumber": "0.1.0.NEXT",
       "package": "Test Package (Creation Issue",
       "versionDescription": ""
-      
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": false,
+      "package": "Test Package Creation",
+      "versionDescription": ""
     }
   ],
   "name": "copado-trial",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "56.0"
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "Test Package Creation": "0HoHs000000oQOoKAM"
+  }
 }
